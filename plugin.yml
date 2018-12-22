@@ -1,0 +1,6 @@
+name: Rush
+version: 0.1
+main: net.theuniverscraft.Rush.Rush
+commands:
+  rush:
+    usage: /<command> <args>
